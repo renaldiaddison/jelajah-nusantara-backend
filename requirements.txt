@@ -1,0 +1,8 @@
+requests==2.25.1
+openai
+beautifulsoup4
+djangorestframework
+pymysql
+python-dotenv
+feedparser
+django-cors-headers
