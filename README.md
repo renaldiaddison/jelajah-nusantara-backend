@@ -1,4 +1,4 @@
-# Infinity 2.0 Jelajah Nusantara Backend
+# Jelajah Nusantara Backend
 
 Dependency Requirement:
 
